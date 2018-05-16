@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\Timer_test\Timer_test\obj\Debug\Timer_test.Form1.resources
+C:\Users\Lenovo\source\repos\Timer_test\Timer_test\obj\Debug\Timer_test.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Timer_test\Timer_test\obj\Debug\Timer_test.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Timer_test\Timer_test\obj\Debug\Timer_test.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Timer_test\Timer_test\bin\Debug\Timer_test.exe.config
+C:\Users\Lenovo\source\repos\Timer_test\Timer_test\bin\Debug\Timer_test.exe
+C:\Users\Lenovo\source\repos\Timer_test\Timer_test\bin\Debug\Timer_test.pdb
+C:\Users\Lenovo\source\repos\Timer_test\Timer_test\obj\Debug\Timer_test.exe
+C:\Users\Lenovo\source\repos\Timer_test\Timer_test\obj\Debug\Timer_test.pdb
